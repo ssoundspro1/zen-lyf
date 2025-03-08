@@ -1,0 +1,27 @@
+{
+  "name": "@zen-lyf/api-client",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "lint": "eslint src --ext .ts",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "firebase": "^10.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0",
+    "@types/jest": "^29.5.10"
+  },
+  "peerDependencies": {
+    "@zen-lyf/data-models": "^0.1.0"
+  }
+} 
