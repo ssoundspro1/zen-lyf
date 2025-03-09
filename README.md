@@ -68,7 +68,9 @@ yarn dev
 
 ## License
 
-This project is proprietary and confidential.
+This project is proprietary and confidential. All rights reserved © 2023 ZEN-LYF.
+
+This software and its documentation are not open source and may not be used, copied, modified, or distributed without explicit written permission from ZEN-LYF. Please see the LICENSE file for detailed terms and restrictions.
 
 ## Contact
 
